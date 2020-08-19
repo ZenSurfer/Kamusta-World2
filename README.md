@@ -1,1 +1,1 @@
-# Kamusta-World2
+# AM-ReactJS-Redux
